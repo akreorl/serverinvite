@@ -1,7 +1,3 @@
 # invite.github.io
 
-개 간단한건데 출처는 필요 ㄴㄴ
-
-쓸거면 포크랑 스타좀....
-
-~~포크랑 스타 하던가 출처 남기던가 하셈 ㅋㅋㅋㅋㅋ~~
+https://jeongtaek06.github.io/serverinvite/
